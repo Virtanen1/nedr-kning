@@ -1,0 +1,25 @@
+
+body {
+	background-color: white;
+	color: black;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	font-size: 50px;
+}
+
+#countdown {
+	margin-bottom: 30px;
+}
+
+#message {
+	display: none;
+	font-size: 100px;
+	color: white;
+}
+
+.red-bg {
+	background-color: red;
+}
